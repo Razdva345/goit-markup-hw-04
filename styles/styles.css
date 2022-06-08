@@ -146,6 +146,12 @@ img {
 
 .contacts-list-link {
 	color: var(--primary-text-color);
+	display: flex;
+	align-items: center;
+}
+.contacts-icon {
+	margin-right: 10px;
+	fill: currentColor;
 }
 /* --------------------------------HERO------------------ */
 
